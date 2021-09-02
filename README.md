@@ -1,1 +1,1 @@
-Projeto de javascript asyncrono
+Projeto de JavaScript Assíncrono e Promises
