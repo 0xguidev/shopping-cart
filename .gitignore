@@ -2,5 +2,6 @@
 
 # VSCode repo settings
 .vscode
+package-lock.json
 node_modules/
 cypress/reports
